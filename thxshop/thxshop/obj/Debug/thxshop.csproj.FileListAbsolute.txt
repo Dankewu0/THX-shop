@@ -1,0 +1,30 @@
+L:\repositories\kurshovaya\thxshop\thxshop\bin\Debug\thxshop.exe.config
+L:\repositories\kurshovaya\thxshop\thxshop\bin\Debug\thxshop.exe
+L:\repositories\kurshovaya\thxshop\thxshop\bin\Debug\thxshop.pdb
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.csproj.AssemblyReference.cache
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.Form1.resources
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.Form2.resources
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.Form3.resources
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.Properties.Resources.resources
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.csproj.GenerateResource.cache
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.csproj.CoreCompileInputs.cache
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.exe
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.pdb
+L:\repositories\kurshovaya\thxshop\thxshop\obj\Debug\thxshop.Form4.resources
+L:\repositories\Новая папка\thxshop\thxshop\bin\Debug\thxshop.exe
+L:\repositories\Новая папка\thxshop\thxshop\bin\Debug\thxshop.exe.config
+L:\repositories\Новая папка\thxshop\thxshop\bin\Debug\thxshop.pdb
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.csproj.AssemblyReference.cache
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.Welcome.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.Reg.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.Products.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.Properties.Resources.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.csproj.GenerateResource.cache
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.csproj.CoreCompileInputs.cache
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.exe
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.pdb
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.PC.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.ourshops.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.Periph.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.PhonenPhoto.resources
+L:\repositories\Новая папка\thxshop\thxshop\obj\Debug\thxshop.Owner.resources
